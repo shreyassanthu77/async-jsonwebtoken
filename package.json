@@ -1,5 +1,5 @@
 {
-  "name": "async-jwt",
+  "name": "async-jsonwebtoken",
   "version": "1.0.0",
   "description": "Async wrapper around jsonwebtoken for JavaScript and TypeScript",
   "main": "lib/index.js",
